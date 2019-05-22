@@ -6,11 +6,11 @@
 
 Category Wise Distribution of App Installs filtered by Target Demographic Groups
 
-* QUESTIONS ANSWERED BY THIS VISUALIZATION:
+ *QUESTIONS ANSWERED BY THIS VISUALIZATION:*
 
-1. What Categories of Applications are popular among various demographics?
-2. Can help Mobile Application developers to focus on a certain category/demographic to gain further traction and stay ahead of the competition 
-3. Can also help new mobile developers gauge the competition among various app categories in google play store
+* What Categories of Applications are popular among various demographics?
+* Can help Mobile Application developers to focus on a certain category/demographic to gain further traction and stay ahead of the competition 
+* Can also help new mobile developers gauge the competition among various app categories in google play store
 
 ### Features:
 
